@@ -1,0 +1,2 @@
+# freeCodeCamp-landingPage
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f366b8f64f1d493493e509f7cbba7467)](https://app.codacy.com/app/isnack/freeCodeCamp-landingPage?utm_source=github.com&utm_medium=referral&utm_content=isnack/freeCodeCamp-landingPage&utm_campaign=Badge_Grade_Dashboard)
